@@ -16,7 +16,7 @@
 
 ## 联系方式
 
-如有任何问题或建议，请联系我们：
+如有任何问题或建议，请联系我们（备注github）：
 
 - 联系人：Leo
 - 微信号：sjq195
@@ -25,6 +25,6 @@
 
 
 
-This file was last updated at 2023-11-04T07:05:02.348Z
+This file was last updated at 2023-11-04T07:07:10.384Z
 
 ---
